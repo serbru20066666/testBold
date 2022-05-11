@@ -1,9 +1,3 @@
-//
-//  UiView.swift
-//  Cambix
-//
-//  Created by Bruno Cardenas on 12/06/21.
-//
 import UIKit
 
 extension UIView {

@@ -1,11 +1,3 @@
-//
-//  apiCMBService.swift
-//  Cambix
-//
-//  Created by bruno cardenas on 5/12/20.
-//  Copyright © 2020 Bruno C. All rights reserved.
-//
-
 import Foundation
 import Alamofire
 import SwiftyJSON
